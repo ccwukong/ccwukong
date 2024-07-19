@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on [Cachaca](https://github.com/ccwukong/Cachaca), an open source ecommerce solution with GenAI features for small business owners.
 - 🤔 I’m looking for ppl who are passionate about TypeScript, React, and fullstack web development to join me to work on this project together.
+
+[Project Discord channel](https://discord.gg/Ygc2tr8Z)
